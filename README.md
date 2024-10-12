@@ -38,4 +38,4 @@ This is a simple Snake Game implemented in Python using the Tkinter library. The
 1. Save the code in a file with a `.py` extension.
 2. Run the Python file using the command:  
    ```bash
-   python your_file_name.py
+   python snake.py
